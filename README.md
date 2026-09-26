@@ -4,7 +4,7 @@ PSD のレイヤー名を一括で連番にするブラウザーツール。イ�
 一次幫多個 PSD 圖層加上流水號的瀏覽器工具。免安裝、不上傳。<br>
 A browser tool that renames PSD layers in bulk. No install, nothing uploaded.
 
-**▶ [ここから使う / 開始使用 / Launch the tool](https://YOUR-NAME.github.io/psd-layer-renamer/)**
+**▶ [ここから使う / 開始使用 / Launch the tool](https://maktia.booth.pm/items/8901599)**
 
 ---
 
@@ -44,7 +44,7 @@ A browser tool that renames PSD layers in bulk. No install, nothing uploaded.
 
 両者は同じエンジンを使っています。違いは上限だけで、書き出したファイルに透かしや印は一切入りません。
 
-**製品版 / 完整版 / Full version → [BOOTH](https://YOUR-SHOP.booth.pm/items/0000000)**
+**製品版 / 完整版 / Full version → [BOOTH](https://maktia.booth.pm/items/8901599)**
 
 ---
 
